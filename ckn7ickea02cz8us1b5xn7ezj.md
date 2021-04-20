@@ -152,11 +152,11 @@ Notice how I added two items within the 'head' tag?
 
 And on that note, that brings us to the end of Part 1. 
 
-Part 2, coming soon...
+Part 2, available now...
 
 ---
+Spotted any errors or omissions? Please do let me know!
+
 Liked the post? Then please stop by on [Twitter](https://twitter.com/aldercode) to say Hi. 
 
 %%[ko-fi]
-
-Spotted any errors or omissions? Please do let me know!
