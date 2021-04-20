@@ -23,7 +23,7 @@ The landing contains the following last sentence:
 
 *(This blogging platform is automatically excluding the 'https://' part of what you read here, but rest assured, it's there in the background.)*
 
-Here's the HTML for that line, which you too can view if you right-click on the page and select 'View page source':
+Here's the HTML for that line, viewable by right-clicking on the page and selecting 'View page source':
 
 ```
 <p>Also, please say Hi on Twitter, and let's chat: 
