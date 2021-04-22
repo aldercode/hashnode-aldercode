@@ -1,4 +1,4 @@
-## Why I quit the #100DaysOfCode Challenge early
+## Why I quit the #100DaysOfCode Challenge early: time
 
 Right off the bat, allow me to add this disclaimer: I think the 100 Days Of Code Challenge is really great. 
 
