@@ -6,6 +6,8 @@ It gets new coders to develop a daily coding habit right from the outset. And, w
 
 For inspiration, try searching #100DaysOfCode on Twitter. Here, I got you: [#100DaysOfCode search](https://twitter.com/search?q=%23100daysofcode&src=typed_query)
 
+I really do not wish to prevent any others from giving this challenge a solid go and trying their utmost to complete it...
+
 Unfortunately, as noble as the cause is, it's not necessarily a good fit for every single one of us.
 
 I recently discovered that I'm one of them.
