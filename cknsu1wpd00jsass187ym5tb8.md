@@ -80,3 +80,8 @@ Regular old 'coders'.
 Or 'developers', if you prefer.
 
 I'm more than happy to just be called either one of those.
+
+---
+Liked the post? Then please stop by on [Twitter](https://twitter.com/aldercode) to say Hi. 
+
+%%[ko-fi]
