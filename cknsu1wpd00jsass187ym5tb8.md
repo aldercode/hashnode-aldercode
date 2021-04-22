@@ -10,7 +10,7 @@ Unfortunately, as noble as the cause is, it's not necessarily a good fit for eve
 
 I recently discovered that I'm one of them.
 
-Before I launch into an undoubtedly fascinating diatribe of just why I called it a day on the challenge early (for the second time, I might add) allow me to answer a possible question you may have: "Who cares?"
+Before I launch into an undoubtedly fascinating diatribe on just why I called it a day on the challenge early (for the second time, I might add) allow me to answer a possible question you may have: "Who cares?"
 
 Well, I do 😏. That's the point of a personal developer blog - it's as much for me as for my readers.
 
