@@ -34,8 +34,8 @@ Despite my best intentions and how much I enjoy nothing more than figuring out h
 
 * I have a family, including children.
 * They, in turn, have what can only be described as half of a small zoo 🙄, requiring a fair bit of feeding, watering and cleaning.
-* I have a rather busy day job where I serve in the role of general manager **and** run the sales portfolio. If that sounds a bit like bragging, I assure you it's not. Fine, maybe just a *little*. I just want to illustrate that I have responsibilities requiring both time and focus. 
-* I'm in my final year of a correspondence honours degree in the environmental sciences. 
+* I have a rather busy full-time job.
+* I'm in my final year of a correspondence honours degree.
 * I volunteer for a rather busy non-profit in wildlife conservation. 
 * I write, and not just on this blog either. 
 * I run. Not as much as I should, but I try.
