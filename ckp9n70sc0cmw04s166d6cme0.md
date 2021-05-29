@@ -63,7 +63,7 @@ On that front, I have approached a friend in England to offer a free site to som
 
 ## Alternatives? ##
 
-As an aside, I'm aware that WordPress isn't the only solution out there. When I get a chance, I'm playing around with plenty of other options too. I've had a look at [Webflow](https://webflow.com/), watched some YouTube videos on how to use [Oxygen Builder](https://oxygenbuilder.com/) and started tinkering around with a relative newcomer which looks very promising, and one I'm rather excited to master: [primo](https://primo.so/).
+As an aside, I'm aware that WordPress isn't the only solution out there. When I get a chance, I'm playing around with plenty of other options too. I've had a look at [Webflow](https://webflow.com/), watched some YouTube videos on how to use [Oxygen Builder](https://oxygenbuilder.com/) and started tinkering around with a relative newcomer which looks very promising, and one I'm rather excited to learn more about: [primo](https://primo.so/).
 
 However, right now, I need to get these four sites out, sooner rather than later. My focus is thus building them right now using the tool with which I'm currently the most comfortable: WordPress. 
 
