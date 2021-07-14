@@ -18,7 +18,7 @@ Cue much building...
 
 But, no one has ever heard of me, at least as far as building sites goes, so I ALSO need to get my name out there a little bit.
 
-Next brainwave! (I'm just full of them, aren't I?) I know a few friends and extended family with businesses without any form of current web presence - often than a Facebook page. Why not offer them a free landing page? I'll be building anyway to create a portfolio, so why not make a portfolio out of real business websites right from the outset? 
+Next brainwave! (I'm just full of them, aren't I?) I know a few friends and extended family with businesses without any form of current web presence other than a Facebook page. Why not offer them a free landing page? I'll be building anyway to create a portfolio, so why not make a portfolio out of real business websites right from the outset? 
 
 Obviously, they would include a link to my services in the footer - 'site by alder_code'; that sort of thing.
 
