@@ -14,7 +14,7 @@ In my search for a good online piano learning platform, I stumbled across [Piano
 
 But, in order to use it properly, your digital piano needs to be connected to your PC / Mac / iPad so that the software can "hear" your playing and mark accordingly. 
 
-Enter MIDI. Right off the bat, allow me to add this disclaimer: I really know very little about MIDI, how it works, what a MIDI controller is and suchlike. And, while I'm sure I'll learn all about it in good time, for now, what I wanted, was simply **CAN I** connect my Yamaha P-45 to my PC so that I can start learning using the Piano Marvel platform.
+Enter MIDI. Right off the bat, allow me to add this disclaimer: I really know very little about MIDI, how it works, what a MIDI controller is and suchlike. And, while I'm sure I'll learn all about it in good time, for now, what I wanted, was simply to know: **CAN I** connect my Yamaha P-45 to my PC so that I can start learning using the Piano Marvel platform.
 
 That search took me down the rabbit hole! I found LOTS of really technical articles out there about all things MIDI, yet almost nothing about what I *actually* wanted to know:  Specifically, how to connect my Windows 10 laptop to the piano via USB and whether this specific model of digital piano has the capability to do so.
 
