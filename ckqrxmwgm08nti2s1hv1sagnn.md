@@ -19,7 +19,7 @@ There's no reason for the platform to remain merely a place for *my* views on th
 I've also recently started a newsletter for the site, and the second issue went out today. Allow me to paste the content thereof here to give you a better idea of some of the plans for Coding Climate:
 
 
-![Screenshot of Newsletter in email inbox.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1625566795548/59CojEq77.jpeg)
+![Screenshot of Newsletter in email inbox](https://cdn.hashnode.com/res/hashnode/image/upload/v1625566795548/59CojEq77.jpeg)
 ## Newsletter Issue No. 2: ##
 
 So, what’s been happening on codingclimate.com?
