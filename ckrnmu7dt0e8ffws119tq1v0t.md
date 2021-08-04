@@ -10,7 +10,7 @@
 
 I have what seems to be an extremely popular model of entry-level digital piano, the Yamaha P45. Or "P-45" (with a hyphen/dash) to be totally correct...
 
-In my search for a good online piano learning platform, I stumbled across [Piano Marvel](https://pianomarvel.com/). The reviews are good! Needless to say, I'm keen to give it a go. They even offer a 1-month free trial, so I'd be crazy not to!
+In my search for a good online piano learning platform, I stumbled across <a href="https://pianomarvel.com/?promoCode=aldercode" rel="sponsored" target="_blank">Piano Marvel</a>. The reviews are good! Needless to say, I'm keen to give it a go. They even offer a 1-month free trial, so I'd be crazy not to!
 
 But, in order to use it properly, your digital piano needs to be connected to your PC / Mac / iPad so that the software can "hear" your playing and mark accordingly. 
 
