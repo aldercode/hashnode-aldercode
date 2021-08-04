@@ -66,6 +66,8 @@ That's done, so the rest is more generally applicable, addressing *both* types o
 
 Just follow the in-browser steps listed here and you're sorted. I can confirm - I did this today!
 
+Keen to give Piano Marvel a try? If so, <a href="https://pianomarvel.com/create-account/aldercode" rel="sponsored" target="_blank">here's a link to use</a> to sign up. Yup, it's my affiliate link. Once your trial period is done and you decide to upgrade (and you will - it's that good!), you pay the normal (already excellent value for money) rates, and I get a little finder's fee from Piano Marvel as a thank you. Win-win!
+
 Happy playing!
 
 ---
