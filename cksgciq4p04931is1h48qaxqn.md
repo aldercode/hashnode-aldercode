@@ -46,17 +46,15 @@ Here's something I was wondering: is it possible to monetise this path I'm on fr
 
 ### What's in it for me? ###
 
-Well, for starters:
+Building a community from the get-go. There are *so* many of us giving freelancing a go, yet the majority of us are doing so in isolation. Having others in similar situations sounds like a great platform for bouncing ideas off each other. 
 
-![Destiny's Child singing their song "Bills, Bills, Bills"](https://cdn.hashnode.com/res/hashnode/image/upload/v1629193653847/FTbOEJQ-i.jpeg)
+Sure, the process will initially start off as more of a one-way conversation, but I'm certain it'll get more interactive as comments and opinions begin to flow and the site develops.
 
-Stu's got bills! (Don't we all? 🙄)
-
-If I can somewhat subsidise my early earnings via another method, that should allow me to chase after my preferred, more appropriate, freelance roles. This is as opposed to jumping at whatever freelance gigs I can find just to get going.
+There's obviously also an interest in having this generate some income, I must be honest. If I can somewhat subsidise my early earnings via another method, that will hopefully allow me to chase after preferred, more appropriate, freelance roles. This is as opposed to jumping at whatever freelance gigs I can find just to get going.
 
 It's one thing to start freelancing by taking on anything and everything, and quite another to establish yourself as one of the better ones in any specific niche right from the outset.
 
-Granted, very few have the luxury of choosing. Therefore, I'm trying to *create* that luxury for myself.
+Granted, very few have the luxury of choosing. Therefore, I'm trying to *create* that luxury for myself. "We make our own luck," I believe the saying goes.
 
 ### A potential solution: ###
 
