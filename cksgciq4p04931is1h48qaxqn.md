@@ -46,9 +46,9 @@ Here's something I was wondering: is it possible to monetise this path I'm on fr
 
 ### What's in it for me? ###
 
-Building a community from the get-go. There are *so* many of us giving freelancing a go, yet the majority of us are doing so in isolation. Having others in similar situations sounds like a great platform for bouncing ideas off each other. 
+Building a community from the get-go. There are *so* many of us giving freelancing a go, yet the majority of us are doing so in isolation. 
 
-Sure, the process will initially start off as more of a one-way conversation, but I'm certain it'll get more interactive as comments and opinions begin to flow and the site develops.
+Sure, the process will initially start off as more of a one-way conversation, but I plan to make it way more interactive and embrace comments and opinions beginning to flow and the community developing.
 
 There's obviously also an interest in having this generate some income, I must be honest. If I can somewhat subsidise my early earnings via another method, that will hopefully allow me to chase after preferred, more appropriate, freelance roles. This is as opposed to jumping at whatever freelance gigs I can find just to get going.
 
