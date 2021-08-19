@@ -2,7 +2,7 @@
 
 Let's try something: **monetising a '(sort of) noob to success' freelance journey**.
 
-*(Monetising: totally not a typo... I'm using UK English 😉)*
+* (Monetising: totally not a typo... I'm using UK English 😉) *
 
 Sound interesting?
 
