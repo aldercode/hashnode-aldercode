@@ -2,6 +2,8 @@
 
 Let's try something: **monetising a '(sort of) noob to success' freelance journey**.
 
+*(Monetising: totally not a typo... I'm using UK English 😉)*
+
 Sound interesting?
 
 ![Mr Burns, from The Simpsons, with clasped hands, saying "Excellent"](https://cdn.hashnode.com/res/hashnode/image/upload/v1629190206600/mpIJQw-US.png)
