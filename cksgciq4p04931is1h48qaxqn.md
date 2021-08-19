@@ -50,6 +50,8 @@ Building a community from the get-go. There are *so* many of us giving freelanci
 
 Sure, the process will initially start off as more of a one-way conversation, but I plan to make it way more interactive and embrace comments and opinions beginning to flow and the community developing.
 
+By making this a paid community, albeit still at a low cost ($5 per month at launch), the community will hopefully be populated by those with a true interest in learning and developing freelancing skills.
+
 There's obviously also an interest in having this generate some income, I must be honest. If I can somewhat subsidise my early earnings via another method, that will hopefully allow me to chase after preferred, more appropriate, freelance roles. This is as opposed to jumping at whatever freelance gigs I can find just to get going.
 
 It's one thing to start freelancing by taking on anything and everything, and quite another to establish yourself as one of the better ones in any specific niche right from the outset.
