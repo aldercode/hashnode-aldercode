@@ -113,6 +113,30 @@ Got any thoughts on this? I'd love to hear them. Drop a comment below and let's 
 Watch this space for feedback on how it all goes.
 
 ---
+
+**UPDATE: 2 months later:**
+
+If you're following this to see how it panned out, the answer is... not too well. 
+
+Here are some stats:
+
+Views on Gumroad: 38
+
+Referrers:
+ - Direct: 2
+ - DEV Community: 12
+ - Direct, email, IM: 19
+ - Twitter: 5
+
+Sales: 0
+
+Fair enough. Other than this post and listing it as my pinned tweet for a couple of weeks, I really did next to no marketing. Lesson learned!
+
+Marketing, marketing, marketing!
+
+On to the next project then!
+
+---
 Enjoyed the post? Then, please stop by on [Twitter](https://twitter.com/aldercode) to say Hi. 
 
 %%[ko-fi]
