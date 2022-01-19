@@ -83,8 +83,5 @@ And here's a pic of the model number on the ACTUAL piano. See? No "B"... Guess w
 ![Yamaha P-45 piano model name on piano](https://cdn.hashnode.com/res/hashnode/image/upload/v1627483688821/SDNDIwwiQ.jpeg)
 
 ---
-I'm currently taking the #100DaysOfPiano Challenge - posting daily on Twitter about what I've learned or played that day, for 100 days in a row. 
-
-Get some piano inspiration by viewing all recent #100DaysOfPiano tweets [here](https://twitter.com/search?q=%23100DaysOfPiano). Or, click [here](https://twitter.com/search?q=%23100DaysOfPiano%20from%3Aaldercode) for just mine.
 
 %%[ko-fi]
