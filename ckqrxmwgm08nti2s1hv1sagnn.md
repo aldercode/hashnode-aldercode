@@ -59,7 +59,7 @@ Until the next time.
 Stuart
 
 ---
-Sound like something you'd be interested in? Great! [codingclimate.substack.com](https://codingclimate.substack.com/)
+Sound like something you'd be interested in? Great! [codingclimate.com/newsletter](https://codingclimate.com/newsletter/)
 
 So, please check out the [Coding Climate website](https://codingclimate.com/) and get in touch! 
 
